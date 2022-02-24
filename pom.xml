@@ -35,7 +35,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>Rithu</username>
 						<password>Arunareddy@123</password>
-						<applicatinName>CICD-Test-A</applicatinName>
+						<applicationName>CICD-Test-A</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
